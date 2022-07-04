@@ -1,9 +1,11 @@
-import React from "react";
+import React, { CSSProperties } from "react";
+import Uploader from "./Components/Uploader";
+import { appStyles } from "./styles.constant";
 
 function App() {
   return (
-    <div className="App">
-      <h2>Image Uploader</h2>
+    <div style={appStyles}>
+      <Uploader />
     </div>
   );
 }
