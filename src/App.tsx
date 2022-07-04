@@ -1,4 +1,4 @@
-import React, { CSSProperties } from "react";
+import React from "react";
 import Uploader from "./Components/Uploader";
 import { appStyles } from "./styles.constant";
 
