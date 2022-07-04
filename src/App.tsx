@@ -9,7 +9,11 @@ function App() {
       <Uploader />
       <Footer>
         Made with ❤️ by{" "}
-        <a href="https://github.com/Sachin-chaurasiya" target="_blank">
+        <a
+          href="https://github.com/Sachin-chaurasiya"
+          target="_blank"
+          rel="noreferrer"
+        >
           @Sachin-chaurasiya
         </a>
       </Footer>
