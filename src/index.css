@@ -142,3 +142,7 @@ h6 {
 .ant-image {
   margin-right: 0px;
 }
+
+.ant-layout-footer {
+  margin-top: 16px;
+}
