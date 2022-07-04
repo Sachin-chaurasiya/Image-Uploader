@@ -1,5 +1,13 @@
 # Image Uploader
 
+## User Story
+
+1. I can drag and drop an image to upload it
+2. I can choose to select an image from my folder
+3. I can see a loader when uploading
+4. When the image is uploaded, I can see the image and copy it
+5. I can choose to copy to the clipboard
+
 ## Upload Screen
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/59080942/177188327-ad0ec76f-eea0-4dc4-97de-dd7a78b152e1.png">
