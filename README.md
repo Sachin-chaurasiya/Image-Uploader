@@ -10,12 +10,12 @@
 
 ## Upload Screen
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59080942/177188327-ad0ec76f-eea0-4dc4-97de-dd7a78b152e1.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59080942/177191214-07d4736e-8995-4615-8d60-2e52d1ebb1e9.png">
 
 ## Loading Screen
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59080942/177188486-57d3607d-4aed-43b3-9a98-f874344c471d.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59080942/177191308-5ff2a64f-1cf6-47b8-8744-e2af5a4b796b.png">
 
 ## Successful screen
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59080942/177188590-6bca48d4-2658-4017-a1a2-0ee9cb03b678.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59080942/177191364-cb5ec8e8-a1c0-47b0-b187-e095738ec7f3.png">
