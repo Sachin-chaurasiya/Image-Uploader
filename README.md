@@ -1,4 +1,4 @@
-# Image Uploader
+# Image Uploader [![Netlify Status](https://api.netlify.com/api/v1/badges/3a1fc8ff-3775-4816-86cc-c4aae6bea78d/deploy-status)](https://app.netlify.com/sites/image-uploader-app/deploys)
 
 ## User Story
 
